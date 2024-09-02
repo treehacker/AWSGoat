@@ -9,7 +9,7 @@ on:
         options: 
         - module-1
         - module-2
-        required: true
+        required: false
 
 permissions: write-all
 
